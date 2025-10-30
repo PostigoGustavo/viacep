@@ -1,4 +1,4 @@
-package model;
+package br.com.consulta_cep.model;
 
 public class Endereco {
     private String cep;
